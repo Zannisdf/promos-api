@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "type": "burger",
+    "name": "HamburguesaPack",
+    "img": "../media/images/promoHamburguesa.jpg",
+    "products": ["Hamburguesa Italiana", "Papas Fritas", "3 Empanaditas de queso", "Bebida Lata", "1 Salsa"]
+  },
+  {
+    "type": "chicken",
+    "name": "PolloPack",
+    "img": "../media/images/promoPollo.jpg",
+    "products": ["Pechuga", "Papas Fritas", "Bebida Lata", "1 Salsa"]
+  },
+  {
+    "type": "chicken",
+    "name": "Pack Familiar",
+    "img": "../media/images/promoFamiliar.jpg",
+    "products": ["Pollo Entero", "Papas Fritas Grandes", "4 Empanaditas de Queso", "Bebida de 1.5L", "1 Salsa"]
+  },
+  {
+    "type": "chicken",
+    "name": "Pack Premium",
+    "img": "../media/images/promoPremium.jpg",
+    "products": ["Pollo Entero", "Papas Fritas Gigantes", "6 Empanaditas de Queso", "Bebida de 1.5L", "2 Salsa"]
+  },
+  {
+    "type": "chicken",
+    "name": "Pack para 2",
+    "img": "../media/images/promoDos.jpg",
+    "products": ["Medio Pollo", "Papas Fritas Medianas", "2 Empanaditas de Queso", "Bebida de 1.5L", "1 Salsa"]
+  },
+  {
+    "type": "burger",
+    "name": "MechadaPack",
+    "img": "../media/images/promoMechada.jpg",
+    "products": ["Mechada Italiana", "Papas Fritas", "3 Empanaditas de Queso", "Bebida en Lata", "1 Salsa"]
+  },
+  {
+    "type": "as",
+    "name": "AsPack",
+    "img": "../media/images/promoAs.jpg",
+    "products": ["As Italiano", "Papas Fritas", "3 Empanaditas de Queso", "Bebida en Lata", "1 Salsa"]
+  },
+  {
+    "type": "fried",
+    "name": "ChorriExplota",
+    "img": "../media/images/promoChorriExplota.jpg",
+    "products": ["Chorrillana Clásica", "Mix de 12 Fritanguitas", "Bebida de 1.5L", "3 Salsas"]
+  }
+]
